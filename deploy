@@ -1,6 +1,8 @@
 -#!/bin/sh          
  cd /NodeTestApp
  git pull      
- npm install --production       
+ npm install --production 
+ npm install -i pm2@latest 
+ pm2 restart all
  exit      
 EOF
