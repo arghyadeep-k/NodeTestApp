@@ -18,7 +18,8 @@
   },
   "homepage": "https://github.com/arghyadeep-k/NodeTestApp#readme",
   "dependencies": {
-    "express": "^4.17.1"
+    "express": "^4.17.1",
+    "pm2": "^3.5.1"
   },
   "devDependencies": {
     "mocha": "^6.2.0",
