@@ -1,6 +1,7 @@
 -#!/bin/sh          
  cd /NodeTestApp
- git pull       
+ git pull      
+ npm install -g pm2@latest 
  pm2 start app.js 
  exit      
 EOF
