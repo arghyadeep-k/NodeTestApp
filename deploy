@@ -1,0 +1,6 @@
+-#!/bin/sh          
+ cd /NodeTestApp
+ git pull      
+ npm install --production       
+ exit      
+EOF
