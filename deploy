@@ -1,5 +1,4 @@
 -#!/bin/sh          
-
- exit      
+echo "Hello"
 EOF
 pm
